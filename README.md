@@ -74,8 +74,8 @@ A modern, user-friendly transit application built with Next.js, React, and TypeS
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
 - `npm run start` - Start production server
-- `npm run lint` - Run linting
 
-## Note
 
-This is a prototype application and may not include all features in a production environment. The application is designed to demonstrate the user interface and core functionality of a modern transit application. 
+## Web Prototype Link
+Use the following link to access the prototype online
+https://gleaming-twilight-9043e3.netlify.app/
